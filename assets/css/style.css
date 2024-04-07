@@ -1,0 +1,52 @@
+.cairo-play{
+    font-family: "Cairo Play", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" -4;
+  }
+
+.cairo-play-bold{
+font-family: "Cairo Play", sans-serif;
+font-optical-sizing: auto;
+font-weight: 700;
+font-style: normal;
+font-variation-settings:
+    "slnt" 0;
+font-size: 70px;
+}
+
+.cairo-play-content{
+font-family: "Cairo Play", sans-serif;
+font-optical-sizing: auto;
+font-weight: 200;
+font-style: normal;
+font-variation-settings:
+    "slnt" 0;
+font-size: 20px;
+}
+
+
+body{
+font-family: "Cairo Play", sans-serif;
+}
+
+nav{
+    background-color: black;
+}
+
+header{
+    width: 100%;
+}
+
+.section1 img{
+    width: 100%;
+}
+
+main{
+    background-color: azure;
+}
+
+  
+
