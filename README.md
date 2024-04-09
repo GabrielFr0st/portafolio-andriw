@@ -1,6 +1,6 @@
 ## Deploy
 
-- [[Enlace al despliegue](URL_DEL_DESPLIEGUE](https://srimproved.github.io/portafolio-andriw/))
+- https://srimproved.github.io/portafolio-andriw
 
 ## Forks
 
