@@ -74,6 +74,10 @@ header{
     width: 100%;
 }
 
+.navbar-nav .nav-item {
+    margin-right: 30px;
+  }
+
 
   
 
