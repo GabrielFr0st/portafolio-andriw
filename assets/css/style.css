@@ -17,6 +17,16 @@ font-variation-settings:
 font-size: 50px;
 }
 
+.cairo-play-bold1{
+    font-family: "Cairo Play", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0;
+    font-size: 40px;
+    }
+
 .cairo-play-bold2{
     font-family: "Cairo Play", sans-serif;
     font-optical-sizing: auto;
@@ -60,10 +70,6 @@ font-size: 30px;
 
 body{
 font-family: "Cairo Play", sans-serif;
-}
-
-nav{
-    background-color: black;
 }
 
 .navbar-toggler-icon {
